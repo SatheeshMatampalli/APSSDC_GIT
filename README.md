@@ -14,8 +14,8 @@ _italic_<br>
 * rajesh
 * muni
   1. sathi
-  3. raj
-  4. bose
+  1. raj
+  1. bose
 # big picture
 ![Git prac](IMG-20170624-WA0011.jpg)
 ![Git Practice](https://www.apssdc.in/home/images/apssdc_final.png)
