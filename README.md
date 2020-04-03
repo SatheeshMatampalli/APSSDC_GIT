@@ -17,5 +17,5 @@ _italic_<br>
   3. raj
   4. bose
 # big picture
-
-![Git Practice](/Big
+![Git prac](IMG-20170624-WA0011.jpg)
+![Git Practice](https://www.apssdc.in/home/images/apssdc_final.png)
